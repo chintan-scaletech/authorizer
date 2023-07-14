@@ -1,0 +1,12 @@
+server/.env
+server/server
+.git
+.gitignore
+README.md
+ROADMAP.md
+build
+.env
+data.db
+app/node_modules
+app/build
+certs/
